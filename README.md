@@ -13,6 +13,8 @@ Durante mi formacion en el instituto Duoc Uc y la constante practica autodidacta
 * MySql
 * Laravel
 * Vue js
+* Claude IA 
+* Cloudflare
 
 
 ### Repositorios: 
@@ -23,6 +25,7 @@ En este espacio, podrás explorar una diversidad de proyectos que he llevado a c
 * Git + GitHub avanzado 
 * WordPress 
 * Lógica de programación
-* Testing de Software QA – Básico 
+* Testing de Software QA – Básico
+* 
 
 Contacto maisalazarh@gmail.com
